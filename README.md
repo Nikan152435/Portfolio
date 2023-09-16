@@ -29,7 +29,7 @@ And what I can
 + Сertificate 
 
 
-  job title
+  Job title
 
 At the moment I am studying at the Institute of Advanced Training "Netology" in Moscow, by profession a front-end developer. After graduating from university, I am looking for a job as a junior developer with internships and job familiarization, as I am a young aspiring programmer. No work experience.
 The date of receipt of the main diploma is approximately November 22, the date of graduation is approximately February 23.

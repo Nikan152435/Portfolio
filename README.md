@@ -32,8 +32,10 @@ And what I can
   job title
 
 At the moment I am studying at the Institute of Advanced Training "Netology" in Moscow, by profession a front-end developer. After graduating from university, I am looking for a job as a junior developer with internships and job familiarization, as I am a young aspiring programmer. No work experience.
+The date of receipt of the main diploma is approximately November 22, the date of graduation is approximately February 23.
 
 Im Moment studiere ich am Institute of Advanced Training „Netology“ in Moskau, von Beruf Front-End-Entwickler. Nach meinem Universitätsabschluss suche ich einen Job als Junior-Entwickler mit Praktika und Berufseinarbeitung, da ich ein junger angehender Programmierer bin. Keine Berufserfahrung.
+Das Datum des Erhalts des Hauptdiploms ist ungefähr der 22. November, das Datum des Abschlusses ungefähr der 23. Februar.
 
   Languages
 
@@ -41,7 +43,7 @@ Russian
 English A2 languages learned independently, certification and courses required
 Deutsch A2 Selbstständig erlernte Sprachen, Zertifizierung und Kurse erforderlich
 
-  place of residence
+  Place of residence
 
 Deutschland, Friedberg(Hessen)
 
@@ -50,7 +52,13 @@ Deutschland, Friedberg(Hessen)
   + Diplom [in Russian](https://github.com/Nikan152435/Portfolio/blob/main/Education/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC1.png)
   + Diplom [auf Deutsch](https://github.com/Nikan152435/Portfolio/blob/main/Education/Diplom%20auf%20Deutsch1.pdf) 
 
-   Сontacts
+  Plans
 
-   nikan7602@gmail.com
+Graduate from college and find a job for professional development in your field.
+
+Schließen Sie Ihr Studium ab und finden Sie einen Job zur beruflichen Weiterentwicklung in Ihrem Bereich
+
+  Сontacts
+
+nikan7602@gmail.com
    

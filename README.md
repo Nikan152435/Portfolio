@@ -1,4 +1,4 @@
-Hallo
+Hello
 
 I am Natalia Piasheva 
 
@@ -35,7 +35,22 @@ At the moment I am studying at the Institute of Advanced Training "Netology" in 
 
 Im Moment studiere ich am Institute of Advanced Training „Netology“ in Moskau, von Beruf Front-End-Entwickler. Nach meinem Universitätsabschluss suche ich einen Job als Junior-Entwickler mit Praktika und Berufseinarbeitung, da ich ein junger angehender Programmierer bin. Keine Berufserfahrung.
 
+  Languages
+
+Russian
+English A2 languages learned independently, certification and courses required
+Deutsch A2 Selbstständig erlernte Sprachen, Zertifizierung und Kurse erforderlich
+
+  place of residence
+
+Deutschland, Friedberg(Hessen)
+
   Education
 
   + Diplom [in Russian](https://github.com/Nikan152435/Portfolio/blob/main/Education/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC1.png)
   + Diplom [auf Deutsch](https://github.com/Nikan152435/Portfolio/blob/main/Education/Diplom%20auf%20Deutsch1.pdf) 
+
+   Сontacts
+
+   nikan7602@gmail.com
+   

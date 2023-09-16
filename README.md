@@ -39,9 +39,9 @@ Das Datum des Erhalts des Hauptdiploms ist ungefähr der 22. November, das Datum
 
   Languages
 
-Russian
-English A2 languages learned independently, certification and courses required
-Deutsch A2 Selbstständig erlernte Sprachen, Zertifizierung und Kurse erforderlich
++ Russian
++ English A2 languages learned independently, certification and courses required
++ Deutsch A2 Selbstständig erlernte Sprachen, Zertifizierung und Kurse erforderlich
 
   Place of residence
 

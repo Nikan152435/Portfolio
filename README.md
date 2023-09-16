@@ -4,9 +4,10 @@ I am Natalia Piasheva
 
 And what I can
 
-+ Diplom [HTML and CSS ](https://nikan152435.github.io/mq-diplom/)
++ Diplom [HTML and CSS the link](https://nikan152435.github.io/mq-diplom/)
+       +  [HTML and CSS the code](https://github.com/Nikan152435/mq-diplom )
 + Front-end [Diplom Basis JS ](https://github.com/Nikan152435/bjs-diplom)
-  terminal: npm start, brauser: localhost:8000
+       + terminal: npm start, brauser: localhost:8000
 + Front-end Diplom Brauser JS is in progress
 + front-end Diplom Advanced JS is in progress
 + Homework [the course Basis JS ](https://github.com/Nikan152435/bjs-2-homeworks)

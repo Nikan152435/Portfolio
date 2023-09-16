@@ -24,8 +24,8 @@ And what I can
 + Сertificate [Basis program](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20Basis%20program.pdf)
 + Certificate [Basis Front-end](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/1certificate1%20%20Basis%20Frontend%20.pdf)
 + Сertificate [Basis JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20Basis%20JS.pdf)
-+ Сertificate [Brauser JS is in progress]()
-+ Сertificate [Advanced JS is in prigress]()
-+ Сertificate []()
-+ Сertificate []()
++ Сertificate Brauser JS is in progress
++ Сertificate Advanced JS is in prigress
++ Сertificate 
++ Сertificate 
    

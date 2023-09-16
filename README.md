@@ -1,14 +1,16 @@
-Hello
+#Hello
 
 I am Natalia Piasheva 
 
-And what I can
+  And what I can
 
 + Diplom [HTML and CSS the link](https://nikan152435.github.io/mq-diplom/)
        +  [HTML and CSS the code](https://github.com/Nikan152435/mq-diplom )
 + Front-end [Diplom Basics JS the link](localhost:8000)
-       + terminal: npm start,
-       + [Diplom Basics JS the code](https://github.com/Nikan152435/bjs-diplom)
+  
+       +  terminal: npm start
+  
+       +  [Diplom Basics JS the code](https://github.com/Nikan152435/bjs-diplom)
 + Front-end Diplom Brauser JS is in progress
 + Front-end Diplom Advanced JS is in progress
 + Homework [the course Basics JS ](https://github.com/Nikan152435/bjs-2-homeworks)
@@ -47,7 +49,7 @@ Das Datum des Erhalts des Hauptdiploms ist ungefähr der 22. November, das Datum
 + English A2 languages learned independently, certification and courses required
 + Deutsch A2 Selbstständig erlernte Sprachen, Zertifizierung und Kurse erforderlich
 
-  Place of residence
+  ######Place of residence
 
 Deutschland, Friedberg(Hessen)
 

@@ -7,14 +7,12 @@ I am Natalia Piasheva
 + Diplom [HTML and CSS the link](https://nikan152435.github.io/mq-diplom/)
        +  [HTML and CSS the code](https://github.com/Nikan152435/mq-diplom )
 + Front-end [Diplom Basics JS the link](localhost:8000)
-  
-       +  terminal: npm start
-  
        +  [Diplom Basics JS the code](https://github.com/Nikan152435/bjs-diplom)
+       +  terminal: npm start     
 + Front-end Diplom Brauser JS is in progress
 + Front-end Diplom Advanced JS is in progress
 + Homework [the course Basics JS ](https://github.com/Nikan152435/bjs-2-homeworks)
-+ Homework [the course Brauser JS ](https://github.com/Nikan152435/bhj-homeworks)
++ Homework [the course Browser JS ](https://github.com/Nikan152435/bhj-homeworks)
 + Homework the course Brauser JS is in progress
 + Homework the course Advanced JS is in progress
   

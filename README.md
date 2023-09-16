@@ -50,13 +50,14 @@ Deutschland, Friedberg(Hessen)
   Education
 
   + Diplom [in Russian](https://github.com/Nikan152435/Portfolio/blob/main/Education/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC1.png)
+  
   + Diplom [auf Deutsch](https://github.com/Nikan152435/Portfolio/blob/main/Education/Diplom%20auf%20Deutsch1.pdf) 
 
   Plans
 
 Graduate from college and find a job for professional development in your field.
 
-Schließen Sie Ihr Studium ab und finden Sie einen Job zur beruflichen Weiterentwicklung in Ihrem Bereich
+Schließen Sie Ihr Studium ab und finden Sie einen Job zur beruflichen Weiterentwicklung in Ihrem Bereich.
 
   Сontacts
 

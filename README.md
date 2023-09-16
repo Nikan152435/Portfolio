@@ -25,7 +25,7 @@ And what I can
 + Certificate [Basis Front-end](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/1certificate1%20%20Basis%20Frontend%20.pdf)
 + Сertificate [Basis JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20Basis%20JS.pdf)
 + Сertificate Brauser JS is in progress
-+ Сertificate Advanced JS is in prigress
++ Сertificate Advanced JS is in progress
 + Сertificate 
 + Сertificate 
    

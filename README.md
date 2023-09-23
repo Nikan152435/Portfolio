@@ -1,4 +1,4 @@
-#Hello
+Hello
 
 I am Natalia Piasheva 
 
@@ -27,9 +27,11 @@ I am Natalia Piasheva
 + Сertificate [Basics JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20Basis%20JS.pdf)
 + Сertificate Browser JS is in progress
 + Сertificate Advanced JS is in progress
+  
 + Сertificate Advanced JS, modern language capabilities is in progress
 + Сertificate Advanced JS in the browser is in progress
 + Certificate React, Library for Modern Front-End Development is in progress
++ Diploma block for the profession of frontend developer is in progress
 
 
   Job title
@@ -46,9 +48,9 @@ Das Datum des Erhalts des Hauptdiploms ist ungefähr der 22. November, das Datum
 + English A2 languages learned independently, certification and courses required
 + Deutsch A2 Selbstständig erlernte Sprachen, Zertifizierung und Kurse erforderlich
 
-  ######Place of residence
+  Place of residence
 
-Deutschland, Friedberg(Hessen)
+Deutschland
 
   Education
 

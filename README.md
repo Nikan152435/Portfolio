@@ -4,25 +4,27 @@ I am Natalia Piasheva
 
   And what I can
 
+  Diploms
+
 + Diplom [HTML and CSS the link](https://nikan152435.github.io/mq-diplom/)
        +  [HTML and CSS the code](https://github.com/Nikan152435/mq-diplom )
 + Diplom [Front-end  Basics JS the code](https://github.com/Nikan152435/bjs-diplom)
        +  terminal: npm start, browser: localhost:8000     
-+ Diplom [Front-end  Brauser JS]() is in progress
-+ Diplom [Front-end  Advanced JS]() is in progress
-+ Diplom [Front-end Advanced JS, modern language capabilities]() is in progress 
-+ Diplom [Front-end Advanced JS in the browser]() is in progress
-+ Diplom [Front-end React, Library for Modern Front-End Development]() is in progress
-+ Diplom [block for the profession of frontend developer]() is in progress
++ Diplom Front-end  Brauser JS is in progress
++ Diplom Front-end  Advanced JS is in progress
++ Diplom Front-end Advanced JS, modern language capabilities is in progress 
++ Diplom Front-end Advanced JS in the browser is in progress
++ Diplom Front-end React, Library for Modern Front-End Development is in progress
++ Diplom block for the profession of frontend developer is in progress
 
-  
+  Homworks
+
 + Homework [the course Basics JS ](https://github.com/Nikan152435/bjs-2-homeworks)
 + Homework [the course Browser JS ](https://github.com/Nikan152435/bhj-homeworks)  
-+ Homework [the course Advanced JS]() is in progress
-+ Homework [the course Advanced JS, modern language capabilities is in progress]() is in progress
-+ Homework [the course Advanced JS]() in the browser
-+ Homework [the course React, Library for Modern Front-End Development]() is in progress
-
++ Homework the course Advanced JS is in progress
++ Homework the course Advanced JS, modern language capabilities is in progress is in progress
++ Homework the course Advanced JS in the browser
++ Homework the course React, Library for Modern Front-End Development is in progress
   
   Сertificates
 

@@ -25,7 +25,7 @@ I am Natalia Piasheva
 + Сertificate [Basics program](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20Basis%20program.pdf)
 + Certificate [Basics Front-end](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/1certificate1%20%20Basis%20Frontend%20.pdf)
 + Сertificate [Basics JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20Basis%20JS.pdf)
-+ Сertificate Browser JS is in progress
++ Сertificate [Browser JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20in%20the%20browser.pdf)
 + Сertificate Advanced JS is in progress
   
 + Сertificate Advanced JS, modern language capabilities is in progress

@@ -10,10 +10,14 @@ I am Natalia Piasheva
        +  terminal: npm start, browser: localhost:8000     
 + Front-end Diplom Brauser JS is in progress
 + Front-end Diplom Advanced JS is in progress
+  
 + Homework [the course Basics JS ](https://github.com/Nikan152435/bjs-2-homeworks)
-+ Homework [the course Browser JS ](https://github.com/Nikan152435/bhj-homeworks)
-+ Homework the course Brauser JS is in progress
++ Homework [the course Browser JS ](https://github.com/Nikan152435/bhj-homeworks)  
 + Homework the course Advanced JS is in progress
++ Homework the course Advanced JS, modern language capabilities is in progress is in progress
++ Homework the course Advanced JS in the browser
++ Homework the course React, Library for Modern Front-End Development is in progress
+
   
   Сertificates
 
@@ -26,8 +30,8 @@ I am Natalia Piasheva
 + Certificate [Basics Front-end](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/1certificate1%20%20Basis%20Frontend%20.pdf)
 + Сertificate [Basics JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20Basis%20JS.pdf)
 + Сertificate [Browser JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20in%20the%20browser.pdf)
-+ Сertificate Advanced JS is in progress
   
++ Сertificate Advanced JS is in progress
 + Сertificate Advanced JS, modern language capabilities is in progress
 + Сertificate Advanced JS in the browser is in progress
 + Certificate React, Library for Modern Front-End Development is in progress
@@ -47,6 +51,8 @@ Das Datum des Erhalts des Hauptdiploms ist ungefähr der 2023, das Datum des Abs
 + Russian
 + English A2 languages learned independently, certification and courses required
 + Deutsch A2 Selbstständig erlernte Sprachen, Zertifizierung und Kurse erforderlich
+
++ Сertificate [English for programmers]()
 
   Place of residence
 

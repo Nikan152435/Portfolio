@@ -15,7 +15,7 @@ I am Natalia Piasheva
 + Diplom Front-end Advanced JS, modern language capabilities is in progress 
 + Diplom Front-end Advanced JS in the browser is in progress
 + Diplom Front-end React, Library for Modern Front-End Development is in progress
-+ Diplom block for the profession of frontend developer is in progress
++ Diplom block for the profession of front-end developer is in progress
 
   Homworks
 

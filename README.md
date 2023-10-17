@@ -58,7 +58,7 @@ Das Datum des Erhalts des Hauptdiploms ist ungefähr der 2023, das Datum des Abs
 + English A2 languages learned independently, certification and courses required
 + Deutsch A2 Selbstständig erlernte Sprachen, Zertifizierung und Kurse erforderlich
 
-+ Сertificate [English for programmers](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/10%20certificate%20English%20for%20programmers.jpg)
++ Сertificate [English for programmers](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/10%20certificate%20English%20for%20programmers.pdf)
 
   Place of residence
 

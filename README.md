@@ -48,9 +48,11 @@ I am Natalia Piasheva
 
 At the moment I am studying at the Institute of Advanced Training "Netology" in Moscow, by profession a front-end developer. After graduating from university, I am looking for a job as a junior developer with internships and job familiarization, as I am a young aspiring programmer. No work experience.
 The date of receipt of the main diploma is approximately 2023, the date of graduation is approximately  2024.
+I am looking for a job online and preferably after practice, work online or partially
 
 Im Moment studiere ich am Institute of Advanced Training „Netology“ in Moskau, von Beruf Front-End-Entwickler. Nach meinem Universitätsabschluss suche ich einen Job als Junior-Entwickler mit Praktika und Berufseinarbeitung, da ich ein junger angehender Programmierer bin. Keine Berufserfahrung.
 Das Datum des Erhalts des Hauptdiploms ist ungefähr der 2023, das Datum des Abschlusses ungefähr der 2024.
+Ich suche online nach einem Job und arbeite am liebsten nach der Praxis online oder teilweise.
 
   Languages
 

@@ -10,7 +10,7 @@ I am Natalia Piasheva
        +  [HTML and CSS the code](https://github.com/Nikan152435/mq-diplom )
 + Diplom [Front-end  Basics JS the code](https://github.com/Nikan152435/bjs-diplom)
        +  terminal: npm start, browser: localhost:8000     
-+ Diplom Front-end  Brauser JS is in progress
++ Diplom [Front-end  Brauser JS the code](https://github.com/Nikan152435/bhj-diploma)
 + Diplom Front-end  Advanced JS is in progress
 + Diplom Front-end Advanced JS, modern language capabilities is in progress 
 + Diplom Front-end Advanced JS in the browser is in progress

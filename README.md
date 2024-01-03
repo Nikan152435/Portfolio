@@ -11,7 +11,7 @@ I am Natalia Piasheva
 + Diplom [Front-end  Basics JS the code](https://github.com/Nikan152435/bjs-diplom)
        +  terminal: npm start, browser: localhost:8000     
 + Diplom [Front-end  Brauser JS the code](https://github.com/Nikan152435/bhj-diploma)
-+ Diplom Front-end  Advanced JS is in progress
++ Diplom Front-end  Advanced JS, modern language  Features is in progress
 + Diplom Front-end Advanced JS, modern language capabilities is in progress 
 + Diplom Front-end Advanced JS in the browser is in progress
 + Diplom Front-end React, Library for Modern Front-End Development is in progress
@@ -21,7 +21,7 @@ I am Natalia Piasheva
 
 + Homework [the course Basics JS ](https://github.com/Nikan152435/bjs-2-homeworks)
 + Homework [the course Browser JS ](https://github.com/Nikan152435/bhj-homeworks)  
-+ Homework [the course Advanced JS ](https://github.com/Nikan152435/ajs-homeworks)
++ Homework [the course Advanced JS, modern language  Features ](https://github.com/Nikan152435/ajs-homeworks)
 + Homework the course Advanced JS, modern language capabilities is in progress is in progress
 + Homework the course Advanced JS in the browser
 + Homework the course React, Library for Modern Front-End Development is in progress
@@ -38,7 +38,7 @@ I am Natalia Piasheva
 + Сertificate [Basics JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20Basis%20JS.pdf)
 + Сertificate [Browser JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20in%20the%20browser.pdf)
   
-+ Сertificate Advanced JS is in progress
++ Сertificate Advanced JS, Modern Language Features is in progress
 + Сertificate Advanced JS, modern language capabilities is in progress
 + Сertificate Advanced JS in the browser is in progress
 + Certificate React, Library for Modern Front-End Development is in progress

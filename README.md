@@ -4,7 +4,7 @@ I am Natalia Piasheva
 
   And what I can
   
-  #Diploms
+  Diploms
 
 + Diplom [HTML and CSS the link](https://nikan152435.github.io/mq-diplom/)
        +  [HTML and CSS the code](https://github.com/Nikan152435/mq-diplom )
@@ -17,7 +17,7 @@ I am Natalia Piasheva
 + Diplom Front-end React, Library for Modern Front-End Development is in progress
 + Diplom block for the profession of front-end developer is in progress
 
-  ##Homworks
+  Homworks
 
 + Homework [the course Basics JS ](https://github.com/Nikan152435/bjs-2-homeworks)
 + Homework [the course Browser JS ](https://github.com/Nikan152435/bhj-homeworks)  

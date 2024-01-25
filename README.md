@@ -23,6 +23,7 @@ I am Natalia Piasheva
 + Homework [the course Browser JS ](https://github.com/Nikan152435/bhj-homeworks)  
 + Homework [the course Advanced JS, modern language  Future ](https://github.com/Nikan152435/ajs-homeworks)
 + Homework [the course Advanced JS, modern language capabilites](https://github.com/Nikan152435/Task-ajs)
++ Homework [Typescript] in progress
 + Homework the course Advanced JS in the browser
 + Homework the course React, Library for Modern Front-End Development is in progress
   

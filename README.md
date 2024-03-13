@@ -39,25 +39,25 @@ I am Natalia Piasheva
 + Сertificate [Basics JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20Basis%20JS.pdf)
 + Сertificate [Browser JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20in%20the%20browser.pdf)
 + Сertificate [Advanced JS, modern language capabilities](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/11%20certificate%20edvansed%20modern%20language%20capabilitiesJS.pdf)
-+ Сertificate [Advanced JS in the browser](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/11%20certificate%20edvansed%20modern%20language%20capabilitiesJS.pdf)
++ Сertificate [Advanced JS in the browser]()
 + Certificate React, Library for Modern Front-End Development is in progress
 
 
   Job title
 
 At the moment I am studying at the Institute of Advanced Training "Netology" in Moscow, by profession a front-end developer. After graduating from university, I am looking for a job as a junior developer with internships and job familiarization, as I am a young aspiring programmer. No work experience.
-The date of receipt of the main diploma is approximately 2023, the date of graduation is approximately  2024.
+The date of receipt of the main diploma is approximately 2024, the date of graduation is approximately  2024.
 I am looking for a job online and preferably after practice, work online or partially
 
 Im Moment studiere ich am Institute of Advanced Training „Netology“ in Moskau, von Beruf Front-End-Entwickler. Nach meinem Universitätsabschluss suche ich einen Job als Junior-Entwickler mit Praktika und Berufseinarbeitung, da ich ein junger angehender Programmierer bin. Keine Berufserfahrung.
-Das Datum des Erhalts des Hauptdiploms ist ungefähr der 2023, das Datum des Abschlusses ungefähr der 2024.
+Das Datum des Erhalts des Hauptdiploms ist ungefähr der 2024, das Datum des Abschlusses ungefähr der 2024.
 Ich suche online nach einem Job und arbeite am liebsten nach der Praxis online oder teilweise.
 
   Languages
 
 + Russian
 + English A2 languages learned independently, certification and courses required
-+ Deutsch A2 Selbstständig erlernte Sprachen, Zertifizierung und Kurse erforderlich
++ Deutsch A2 den Test bestanden, Zertifizierung und Kurse erforderlich
 
 + Сertificate [English for programmers](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/10%20certificate%20English%20for%20programmers.pdf)
 

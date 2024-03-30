@@ -39,7 +39,7 @@ I am Natalia Piasheva
 + Сertificate [Basics JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20Basis%20JS.pdf)
 + Сertificate [Browser JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20in%20the%20browser.pdf)
 + Сertificate [Advanced JS, modern language capabilities](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/11%20certificate%20edvansed%20modern%20language%20capabilitiesJS.pdf)
-+ Сertificate [Advanced JS in the browser]()
++ Сertificate Advanced JS in the browser
 + Certificate React, Library for Modern Front-End Development is in progress
 
 

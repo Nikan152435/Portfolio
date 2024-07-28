@@ -56,9 +56,10 @@ Ich suche online nach einem Job und arbeite am liebsten nach der Praxis online o
   Languages
 
 + Russian
-+ English A2 languages learned independently, certification and courses required
-+ Deutsch A2 den Test bestanden, Zertifizierung und Kurse erforderlich
-
++ English B1-2  languages learned independently, certification and courses required
++ Deutsch B1 den Test bestanden, Zertifizierung und Kurse erforderlich
++ Franch A2 in progress
++ Chinese in progress
 + Сertificate [English for programmers](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/10%20certificate%20English%20for%20programmers.pdf)
 
   Place of residence
